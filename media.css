@@ -1,0 +1,68 @@
+@media(min-width:320px){
+
+    .container{
+        width:100%;
+    
+    }
+    .col{
+        width:85%;
+        height:75%;
+        font-size: 18px;
+        
+    }
+    .content{
+        width:100%;
+        height:60vh;
+        
+    }
+	
+}
+
+
+
+    @media(min-width:660px){
+        .container{
+            width:100%;
+        
+        }
+        .col{
+            width:80%;
+            height:70%;
+            font-size: 40px;
+        }
+        .content{
+            width:100%;
+            height:50vh;
+
+        }
+    }
+
+
+
+        @media(min-width:1000px){
+            .container{
+    
+                width:80%;
+                 margin: auto;
+                
+                
+             }
+             .col{
+                 width:90%;
+                 height:80%;
+                 font-size: 40px;
+                 /*font-size: 40px;
+                 border:2px solid white;
+                 position: absolute;
+                 top:10%;
+                 left:6%;*/
+             
+             }
+             .content{
+                 width:100%;
+                 height:80vh;
+                 /*border: 2px solid black;
+                 background-color: black;
+                 position: relative;*/
+                }
+            }
